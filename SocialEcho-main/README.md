@@ -16,7 +16,7 @@ A social networking platform with automated content moderation and context-based
 - [Usage](#usage)
 - [License](#license)
 
-## Project Overview           
+## Project Overview      
 
 The project is a social networking platform built using the MERN (MongoDB, Express.js, React.js, Node.js) stack. It incorporates two major features: an automated content moderation system and context-based authentication. These features are accompanied by common functionalities found in social media applications, such as profile creation, post creation and sharing, liking and commenting on posts, and following/unfollowing users.
 
