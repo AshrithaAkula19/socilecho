@@ -16,7 +16,7 @@ CANDIDATE_LABELS = [
     'business_and_entrepreneurship',
     'education',
     'photography',
-    'gaming',
+    'gaming', 
     'science_and_technology',
     'parenting',
     'politics',
