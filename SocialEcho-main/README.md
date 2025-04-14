@@ -6,7 +6,7 @@ A social networking platform with automated content moderation and context-based
 
 ![UI-community].com(https://raw.githubusercontent.com/nz-m/SocialEcho/main/resources/UI-community.png)
 
-## Table of Contents
+## Table of Contents 
 
 - [Project Overview](#project-overview)
 - [Features](#features)
