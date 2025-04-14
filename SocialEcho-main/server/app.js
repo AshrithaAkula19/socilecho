@@ -7,7 +7,7 @@
  * Date: 19th June 2023
  */
 
-require("dotenv").config();
+require("dotenv").config(); 
 const express = require("express");
 const adminRoutes = require("./routes/admin.route");
 const userRoutes = require("./routes/user.route");
