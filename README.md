@@ -9,8 +9,9 @@ Follow these steps to get the SocialEcho project up and running on your local ma
 Clone the project from GitHub:
 
 ```bash
-git clone https://github.com/nz-m/SocialEcho.git
-cd SocialEcho
+git clone  https://github.com/AshrithaAkula19/socilecho.git
+cd socilecho
+cd SocialEcho-main
 ```
 📦 Step 2: Install Dependencies
 Install required packages for both frontend and backend:
