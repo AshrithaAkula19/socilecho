@@ -12,7 +12,7 @@ const noRightbarRoutes = [
   /\/post\/[^/]+$/,
   /\/community\/[^/]+$/,
   /\/community\/[^/]+\/report$/,
-  /\/community\/[^/]+\/reported-post$/,
+  /\/community\/[^/]+\/reported-post$/, 
   /\/community\/[^/]+\/moderator$/,
 ].map((regex) => new RegExp(regex));
 
