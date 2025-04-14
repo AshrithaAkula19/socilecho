@@ -7,7 +7,7 @@
 * {
   font-family: "Inter", sans-serif;
 }
-*::-webkit-scrollbar {
+*::-webkit-scrollbar { 
   width: 10px;
 }
 
