@@ -13,7 +13,7 @@ const ErrorComponent = ({ errorMessage }) => (
 );
 
 const AppContainer = () => {
-  const location = useLocation();
+  const location = useLocation(); 
   const [store, setStore] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
