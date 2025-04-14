@@ -9,7 +9,7 @@ import Saved from "./pages/Saved";
 import PublicProfile from "./pages/PublicProfile";
 import AllCommunities from "./pages/AllCommunities";
 import MyCommunities from "./pages/MyCommunities";
-import Following from "./pages/Following";
+import Following from "./pages/Following"; 
 import SignUp from "./pages/SignUp";
 
 const ReportedPost = lazy(() => import("./pages/ReportedPost"));
