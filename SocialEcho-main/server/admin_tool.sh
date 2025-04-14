@@ -8,7 +8,7 @@ prompt_exit() {
   fi
 }
 
-while true; do
+while true; do 
   echo "What would you like to do? (Enter the number)"
 
   echo "1. Create an admin"
